@@ -1,0 +1,4 @@
+com\myfirstproject\controller\ServiceController.class
+com\myfirstproject\repository\PessoaRepository.class
+com\myfirstproject\http\Pessoa.class
+com\myfirstproject\repository\entity\PessoaEntity.class
